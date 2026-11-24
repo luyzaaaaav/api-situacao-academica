@@ -1,6 +1,6 @@
 # API de situação acadêmica
 
-**Alunos:** [adicione aqui os nomes dos integrantes]
+Luyza Venâncio Marcelino
 
 Esse projeto foi feito em PHP para cadastrar e consultar a situação dos alunos nas unidades curriculares. Também dá para atualizar se o aluno foi aprovado e apagar um registro.
 
